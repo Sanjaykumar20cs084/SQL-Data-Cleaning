@@ -143,5 +143,11 @@ How to Use This Project:
 2. Import the dataset and run the SQL queries provided in the `layoff_stage.sql` file to replicate the cleaning process.
 3. Explore the cleaned dataset for further analysis.
 
+Contact:
+If you have any questions or feedback, feel free to reach out to me via 
+[Email id](sanjaykumar2372003@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/sanjayk58979a251/) or 
+check out more of my projects on [GitHub](https://github.com/Sanjaykumar20cs084).
+
 
 
